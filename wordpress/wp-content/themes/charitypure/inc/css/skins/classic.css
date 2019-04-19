@@ -1,0 +1,254 @@
+/*
+Default Skin Color settings
+*/
+
+
+header {
+	margin-bottom: 35px;
+	margin-top: 35px;
+}
+
+/********************************************************************************************************************/
+/******************************************** NAVIGATION ************************************************************/
+/********************************************************************************************************************/
+
+#navigation {
+	margin-bottom: 20px;
+}
+#cyberchimps_navbar .navbar-nav > li > a {
+	color: #FFFFFF;
+	text-shadow: none;
+	font-size: 1.3em;
+	padding: 15px 20px;
+}
+
+#cyberchimps_navbar .navbar {
+	/*	border: 1px solid #dddddd;
+		background-image: -webkit-gradient(linear, left 0%, left 100%, from(#ffffff), to(#f8f8f8));
+		background-image: -webkit-linear-gradient(top, #ffffff 0%, #f8f8f8 100%);
+		background-image: -moz-linear-gradient(top, #ffffff 0%, #f8f8f8 100%);
+		background-image: linear-gradient(to bottom, #ffffff 0%, #f8f8f8 100%);
+		background-repeat: repeat-x;
+		border-radius: 4px;
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff8f8f8', GradientType=0);
+		filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+		-webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 5px rgba(0, 0, 0, 0.075);
+		box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 5px rgba(0, 0, 0, 0.075);*/
+}
+
+#cyberchimps_navbar .navbar-nav > li > a {
+	/*color: #555555;*/
+}
+
+#cyberchimps_navbar .nav .active .caret, #cyberchimps_navbar .navbar-nav > li > a:hover .caret {
+	border-top-color: #cccccc;
+	border-bottom-color: #cccccc;
+}
+
+#cyberchimps_navbar .navbar-nav > .active > a {
+	background: transparent;
+	color: #ccc;
+}
+
+#cyberchimps_navbar .navbar-nav > li > a:hover {
+	background: transparent;
+	color: #ccc;
+}
+
+#cyberchimps_menu .nav li ul li a:hover {
+	background: none;
+	color: #0088cc;
+}
+
+#cyberchimps_menu .nav > li.current_page_parent > a,
+#cyberchimps_menu .nav > li.current-menu-ancestor > a {
+	background-image: -webkit-gradient(linear, left 0%, left 100%, from(#ebebeb), to(#f3f3f3));
+	background-image: -webkit-linear-gradient(top, #ebebeb 0%, #f3f3f3 100%);
+	background-image: -moz-linear-gradient(top, #ebebeb 0%, #f3f3f3 100%);
+	background-image: linear-gradient(to bottom, #ebebeb 0%, #f3f3f3 100%);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffebebeb', endColorstr='#fff3f3f3', GradientType=0);
+	-webkit-box-shadow: inset 0 3px 9px rgba(0, 0, 0, 0.075);
+	box-shadow: inset 0 3px 9px rgba(0, 0, 0, 0.075);
+}
+
+#cyberchimps_menu .dropdown-menu:before {
+	content: '';
+	position: absolute;
+	top: -10px;
+	left: 20px;
+	width: 0;
+	height: 0;
+	border-left: 7px solid transparent;
+	border-right: 7px solid transparent;
+	border-bottom: 10px solid #ffffff;
+	vertical-align: middle;
+}
+
+/*#cyberchimps_menu .dropdown-menu:after {
+	content: '';
+	position: absolute;
+	top: -9px;
+	left: 10px;
+	width: 0;
+	height: 0;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-bottom: 9px solid #ffffff;
+	vertical-align: middle;
+}*/
+
+#cyberchimps_menu #searchform {
+	padding: 11px 0 0;
+}
+
+#cyberchimps_menu .search-query {
+	color: #eeeeee;
+	background: #ffffff;
+	border: 3px solid #ffffff;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: -1px -1px 1px rgba(0,0,0,0.3)   ;-moz-box-shadow: -1px -1px 1px rgba(0,0,0,0.3)   ;box-shadow: -1px -1px 1px rgba(0,0,0,0.3)   ;
+}
+
+#cyberchimps_navbar .navbar-toggle {
+	background-color: #efefef;
+	border: 1px solid #dddddd;
+}
+
+#cyberchimps_navbar .navbar-toggle .icon-bar {
+	background-color: #555;
+}
+
+@media (max-width: 767px) {
+
+	#cyberchimps_menu .navbar-nav a {
+		color: #555555;
+	}
+
+	#cyberchimps_menu .navbar-nav > li > a:hover,
+	#cyberchimps_menu .nav li ul li a:hover,
+	#cyberchimps_menu .navbar-nav > .active > a,
+	#cyberchimps_menu .dropdown-menu > .active > a,
+	#cyberchimps_menu .dropdown-menu ul .active > a,
+	#cyberchimps_menu .dropdown-menu ul .active > a:hover,
+	#cyberchimps_menu .dropdown-menu ul .active > a:focus,
+	#cyberchimps_menu .nav > li.current_page_parent > a,
+	#cyberchimps_menu .nav > li.current-menu-ancestor > a {
+		background: none;
+		-webkit-box-shadow: none;
+		-moz-box-shadow: none;
+		box-shadow: none;
+		color: #333333;
+	}
+
+	#cyberchimps_menu .dropdown-menu > li > a,
+	#cyberchimps_menu .dropdown-menu ul li > a {
+		padding: 10px 15px;
+		color: #555555;
+	}
+
+}
+
+/********************************************************************************************************************/
+/******************************************** MAIN CONTENT **********************************************************/
+/********************************************************************************************************************/
+
+article.post, article.page, article.attachment {
+	/*border: 1px solid #ddd;*/
+	padding: 0 15px;
+}
+.more-content {
+	border: 1px solid #DDD;
+}
+.comments-area {
+	border: 1px solid #ddd;
+}
+
+/********************************************************************************************************************/
+/******************************************** SIDEBAR & WIDGETS *****************************************************/
+/********************************************************************************************************************/
+
+.widget-container {
+	border: 1px solid #ddd;
+}
+
+/********************************************************************************************************************/
+/******************************************** FOOTER ****************************************************************/
+/********************************************************************************************************************/
+
+#footer-widget-container {
+	border: 1px solid #ddd;
+}
+
+/********************************************************************************************************************/
+/******************************************** ELEMENTS **************************************************************/
+/********************************************************************************************************************/
+
+/*==================================== CALLOUT ====================================================*/
+
+#callout {
+	border: 1px solid #ddd;
+}
+
+/*====================================== BOX ======================================================*/
+
+.box {
+	border: 1px solid #ddd;
+}
+
+/*==================================== CAROUSEL ===================================================*/
+
+.es-carousel-wrapper {
+	border: 1px solid #ddd;
+}
+.carousel_caption {
+	margin-top: -21px;
+	background: #333;
+	background: rgba(0, 0, 0, .6);
+	color: #fff;
+}
+.es-carousel ul li {
+	border: 1px solid #ddd;
+}
+
+/*==================================== SLIDER =====================================================*/
+
+#slider {
+	border: 1px solid #ddd;
+}
+
+/*==================================== TWITTER ====================================================*/
+
+#twitter_bar {
+	border: 1px solid #ddd;
+}
+
+/*=================================== BREADCRUMBS =================================================*/
+
+.breadcrumbs {
+	border: 1px solid #ddd;
+}
+
+/*================================= RECENT POSTS ==================================================*/
+
+#recent_posts {
+	border: 1px solid #DDDDDD;
+}
+
+/*==================================== PORTFOLIO ==================================================*/
+
+#gallery {
+	border: 1px solid #ddd;
+}
+
+#gallery ul.row li#portfolio_wrap {
+	border: 1px solid #ddd;
+}
+
+/*==================================== HTML BOX ===================================================*/
+
+#htmlbox {
+	border: 1px solid #ddd;
+}

@@ -1,0 +1,274 @@
+/*
+Theme Name: Simplicity Lite
+Theme URI: http://d5creation.com/theme/simplicity/
+
+Author: D5 Creation
+Author URI: http://d5creation.com/
+
+Description: Simplicity is a CSS3 Powered and WordPress 3.6 Ready Theme for Small Business Companies. Customizable Background and other options will give the WordPress Driven Site an attractive look.  Simplicity is Responsive, Super Elegant and Professional Theme which will be adjusted automatically with all smart devices.  Right and Footer Sidebar will be usable for showing the widgets. Full Wide Template can be used for showing showcase or other pages. You can Visit the Simplicity Demo: http://demo.d5creation.com/wp/themes/simplicity. Minimum Requirement: WordPress 3.5.1
+
+Version: 2.9
+
+Tags: two-columns, right-sidebar, custom-header, custom-background, custom-menu, threaded-comments, sticky-post, rtl-language-support, full-width-template, translation-ready, blog, education, food-and-drink, featured-images, portfolio, photography, theme-options  
+
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Simplicity WordPress Theme, Copyright 2012-2013: D5 Creation (www.d5creation.com)
+Simplicity is distributed under the terms of the GNU GPL
+
+Text Domain: simplicity-lite
+
+*/
+/* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
+-------------------------------------------------------------- */
+
+caption, th, td {
+	text-align:right;
+}
+
+.alignnone {
+	margin:5px 0 20px 20px;
+}
+
+.alignleft {
+	float:left;
+	margin:5px 20px 20px 0;
+}
+
+.alignright {
+	float:right;
+	margin:5px 0 20px 20px;
+}
+
+a img.alignleft {
+	float:left;
+	margin:5px 20px 20px 0;
+}
+
+a img.alignnone {
+	margin:5px 0 20px 20px;
+}
+
+a img.alignright {
+	float:right;
+	margin:5px 0 20px 20px;
+}
+
+a img.aligncenter {
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.wp-caption.alignnone {
+	margin:5px 0 20px 20px;
+}
+
+.wp-caption.alignright {
+	margin:5px 0 20px 20px;
+}
+
+.wp-caption.alignleft {
+	margin:5px 20px 20px 0;
+}
+
+img.site-logo, .site-title {
+	float:right;
+}
+
+#content {
+	float:right;
+}
+
+#left-sidebar {
+	float:left;
+}
+
+.facebook-link,
+.twitter-link,
+.youtube-link,
+.gplus-link,
+.picassa-link,
+.li-link,
+.feed-link {
+	float:right;
+}
+
+.twitter-link {
+	margin:0 40px 0 20px;
+}
+
+.li-link {
+	margin:0 20px 0 40px;
+}
+
+#simplicity-main-menu {
+	float:left;
+}
+
+#simplicity-main-menu li {
+	float:right;
+}
+
+#simplicity-main-menu li ul {
+	float:right;
+}
+
+#simplicity-main-menu ul ul,
+.sub-menu, .sub-menu ul ul {
+	float:right;
+	right:0;
+	left: auto;
+}
+
+#simplicity-main-menu ul ul ul {
+	right:100%;
+	left: auto;
+}
+
+#simplicity-main-menu ul ul a {
+	text-align:right;
+}
+
+#left-sidebar .widget li {
+	padding:5px 17px 5px 0;
+}
+
+#footer-widget {
+	float:right;
+}
+
+#footer-sidebar .widgets {
+	margin-right:6%;
+	float:right;
+	margin-left: auto;
+}
+
+#footer-sidebar .widget li {
+	padding:5px 17px 5px 0;
+}
+
+ul, ol {
+	margin:0 25px 10px 0;
+}
+
+address {
+	text-align:left;
+}
+
+input[type="text"],
+textarea, input#s,
+input[type="password"] {
+	border-right:1px solid #999999;
+	border-left:1px solid #FFFFFF;
+}
+
+button,
+input[type="reset"],
+input[type="button"],
+input[type="submit"] {
+	background:-webkit-gradient(linear, right top, right bottom, color-stop(0.05, #11a5db), color-stop(1, #085d96));
+}
+
+button:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover,
+input[type="submit"]:hover {
+	background:-webkit-gradient(linear, right top, right bottom, color-stop(0.05, #085d96), color-stop(1, #11a5db));
+}
+
+.post.sticky,
+.sticky {
+	background:url("images/sticky.png") no-repeat scroll left top #F2F2F2;
+}
+
+.featured-box {
+	text-align:right;
+}
+
+h3.featured-box2 {
+	float:left;
+}
+
+blockquote, q {
+	border-right:10px solid #ccc;
+	border-left:10px solid #ccc;
+}
+
+blockquote:before, q:before {
+	margin-left:.20em;
+	margin-right: auto;
+}
+
+blockquote:after, q:after {
+	margin-right:.20em;
+	margin-left: auto;
+}
+
+#container .attachment-thumbnail {
+	margin:0px 0 10px 15px;
+	float:right;
+}
+
+h1.page-title,
+h1.arc-post-title {
+	text-align:right;
+}
+
+h2.post-title,
+h2.comments,
+h3#reply-title,
+h2.post-title-color {
+	text-align:right;
+}
+
+.floatright {
+	float:right;
+	text-align:right;
+}
+
+.floatleft {
+	float:left;
+	text-align:left;
+}
+
+#page-nav .alignleft {
+	text-align:left;
+}
+
+#page-nav .alignright {
+	text-align:right;
+}
+
+#commentsbox img.avatar {
+	right:0;
+	left: auto;
+}
+
+#commentsbox .commentlist li.comment {
+	padding:5px 50px 0 0;
+}
+
+#commentsbox .commentlist .children li {
+	margin:0 -25px 0 0;
+}
+
+#gallery a {
+	float:right;
+}
+
+#gallery .caption {
+	border-right: 4px solid rgba(0, 0, 0, 0.7);
+	right: 10px;
+	left: 10px;
+	border-left: none;
+}
+
+/* Text meant only for screen readers. */
+
+.screen-reader-text:focus {
+	right: 5px;
+	left: auto;
+}
+
+

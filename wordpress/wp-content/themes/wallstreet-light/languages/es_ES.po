@@ -1,0 +1,57 @@
+# Translation of Themes - Wallstreet Light in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Wallstreet Light package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-17 12:34+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Wallstreet Light\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Description of the plugin/theme
+msgid ""
+"A Business theme which is ideal for creating a corporate / business website. "
+"Wallstreet Light theme is a child theme of Wallstreet theme and it is the "
+"lite color variation. Those who need the white background based theme they "
+"can use this child  theme and if you want dark background based then "
+"directly use the parent theme."
+msgstr ""
+"Un tema para negocios ideal para crear una página web para una empresa / "
+"negocio. Wallstreet Light es un tema hijo de tema Wallstreet con la "
+"variación de color claro. Si la versión del tema con fondo blanco puedes "
+"usar este tema hijo y si quieres un fondo oscuro, puedes usar directamente "
+"el tema padre."
+
+#. Theme Name of the plugin/theme
+msgid "Wallstreet Light"
+msgstr "Wallstreet Light"
+
+#. Template Name of the plugin/theme
+msgid "Blog-FullWidth"
+msgstr "Blog-FullWidth"
+
+#: blog-fullwidth.php:49
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: blog-fullwidth.php:48
+msgid "Read More"
+msgstr "Leer más"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webriti.com"
+msgstr "http://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/wallstreet-lite-version-details-page/"
+msgstr "http://webriti.com/wallstreet-lite-version-details-page/"

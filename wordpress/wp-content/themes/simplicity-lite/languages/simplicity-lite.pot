@@ -1,0 +1,442 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: selfie\n"
+"POT-Creation-Date: 2016-09-30 23:28+0600\n"
+"PO-Revision-Date: 2015-09-20 03:49+0600\n"
+"Last-Translator: support@d5creation.com\n"
+"Language-Team: D5 Creation <support@d5creation.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11 ../archive.php:66 ../index.php:36 ../search.php:43
+msgid "Not Found"
+msgstr ""
+
+#: ../404.php:12 ../archive.php:67 ../index.php:37 ../search.php:44
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help"
+msgstr ""
+
+#: ../404.php:15 ../archive.php:70 ../index.php:40 ../search.php:47
+msgid "Or Return to the Home Page"
+msgstr ""
+
+#: ../404.php:17 ../archive.php:72 ../index.php:42 ../search.php:49
+msgid "You can also Visit the Following. These are the Featured Contents"
+msgstr ""
+
+#: ../archive.php:14
+msgid "now browsing by category"
+msgstr ""
+
+#: ../archive.php:20
+msgid "now browsing by tag"
+msgstr ""
+
+#: ../archive.php:25
+msgid "now browsing by day"
+msgstr ""
+
+#: ../archive.php:28
+msgid "now browsing by month"
+msgstr ""
+
+#: ../archive.php:31
+msgid "now browsing by year"
+msgstr ""
+
+#: ../archive.php:34
+msgid "now browsing by author"
+msgstr ""
+
+#: ../archive.php:37
+msgid "now browsing the general archives"
+msgstr ""
+
+#: ../archive.php:43 ../fcontent.php:13 ../index.php:13 ../single.php:17
+msgid "Posted by:"
+msgstr ""
+
+#: ../archive.php:43
+msgid " on"
+msgstr ""
+
+#: ../archive.php:51 ../fcontent.php:22 ../index.php:22 ../search.php:30
+#: ../single.php:26
+msgid "Posted in"
+msgstr ""
+
+#: ../archive.php:51 ../fcontent.php:22 ../index.php:22 ../search.php:30
+#: ../single.php:26
+msgid "Edit"
+msgstr ""
+
+#: ../archive.php:51 ../fcontent.php:22 ../index.php:22 ../search.php:30
+#: ../single.php:26
+msgid "No Comments &#187;"
+msgstr ""
+
+#: ../archive.php:51 ../fcontent.php:22 ../index.php:22 ../search.php:30
+#: ../single.php:26
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: ../archive.php:51 ../search.php:30
+msgid "% Comments &#187;"
+msgstr ""
+
+#: ../archive.php:51 ../search.php:30
+msgid "Tags: "
+msgstr ""
+
+#: ../archive.php:60 ../fcontent.php:29 ../index.php:29 ../search.php:37
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: ../archive.php:61 ../fcontent.php:30 ../index.php:30 ../search.php:38
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: ../comments.php:13
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:13
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:13
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Comments are Closed"
+msgstr ""
+
+#: ../fcontent.php:21 ../index.php:21 ../single.php:25
+msgid "Pages:"
+msgstr ""
+
+#: ../fcontent.php:22 ../index.php:22 ../single.php:26
+msgid "% Comments &#187;simplicity-lite"
+msgstr ""
+
+#: ../fcontent.php:22 ../index.php:22 ../single.php:26
+msgid "<br />Tags: "
+msgstr ""
+
+#: ../fullwidth.php:22 ../page.php:25
+msgid "Edit This Entry"
+msgstr ""
+
+#: ../functions.php:26
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:101
+msgid "Read More ..."
+msgstr ""
+
+#: ../functions.php:106
+msgid "<span class=\"read-more\">Read More ...</span>"
+msgstr ""
+
+#: ../functions.php:121
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../functions.php:130
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: ../functions.php:139
+msgid "Footer Area One"
+msgstr ""
+
+#: ../functions.php:149
+msgid "Footer Area Two"
+msgstr ""
+
+#: ../functions.php:159
+msgid "Footer Area Three"
+msgstr ""
+
+#: ../functions.php:170
+msgid "Footer Area Four"
+msgstr ""
+
+#: ../inc/customize.php:10
+msgid "SIMPLICITY OPTIONS"
+msgstr ""
+
+#: ../inc/customize.php:11
+msgid "We appreciate an"
+msgstr ""
+
+#: ../inc/customize.php:11
+msgid "Honest Review"
+msgstr ""
+
+#: ../inc/customize.php:11
+msgid "of this Theme if you Love our Work"
+msgstr ""
+
+#: ../inc/customize.php:13
+msgid ""
+"Need More Features and Options including Exciting 3D Slide and 100+ Advanced "
+"Features? Try "
+msgstr ""
+
+#: ../inc/customize.php:14
+msgid "SIMPLICITY Extend"
+msgstr ""
+
+#: ../inc/customize.php:17
+msgid "You can Visit the SIMPLICITY Extend "
+msgstr ""
+
+#: ../inc/customize.php:17
+msgid "Demo Here"
+msgstr ""
+
+#: ../inc/customize.php:33
+msgid "Upgrade to Extended Version"
+msgstr ""
+
+#: ../inc/customize.php:45
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Front Page Heading"
+msgstr ""
+
+#: ../inc/customize.php:51
+msgid "Welcome to the World of Creativity!"
+msgstr ""
+
+#: ../inc/customize.php:59
+msgid "Front Page Heading"
+msgstr ""
+
+#: ../inc/customize.php:66
+msgid ""
+"You can use Simplicity Extend Theme for more options, more functions and "
+"more visual elements. Extend Version has come with simple color "
+"customization option"
+msgstr ""
+
+#: ../inc/customize.php:74
+msgid "Front Page Heading Description"
+msgstr ""
+
+#: ../inc/customize.php:86
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Front Page Slide"
+msgstr ""
+
+#: ../inc/customize.php:105
+msgid "Sliding Image"
+msgstr ""
+
+#: ../inc/customize.php:108
+msgid ""
+"Upload an image for the Front Page Banner. 930px X 350px image is recommended"
+msgstr ""
+
+#: ../inc/customize.php:114
+msgid "This is a Test Image Title"
+msgstr ""
+
+#: ../inc/customize.php:122
+msgid "Image Title"
+msgstr ""
+
+#: ../inc/customize.php:130
+msgid ""
+"This is a Test Image for Simplicity Theme. If you feel any problem please "
+"contact with D5 Creation"
+msgstr ""
+
+#: ../inc/customize.php:138
+msgid "Image Caption"
+msgstr ""
+
+#: ../inc/customize.php:151
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Front Page Quote"
+msgstr ""
+
+#: ../inc/customize.php:158
+msgid ""
+"All the developers of D5 Creation have come from the disadvantaged part or "
+"group of the society. All have established themselves after a long and hard "
+"struggle in their life ----- D5 Creation Team"
+msgstr ""
+
+#: ../inc/customize.php:166
+msgid "Quote Text"
+msgstr ""
+
+#: ../inc/customize.php:178
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - First Row Featured Boxes"
+msgstr ""
+
+#: ../inc/customize.php:195
+msgid "First Row Featured Image"
+msgstr ""
+
+#: ../inc/customize.php:198
+msgid ""
+"Upload an image for the Featured Box. 200px X 100px image is recommended"
+msgstr ""
+
+#: ../inc/customize.php:203
+msgid "Simplicity Theme for Small Business"
+msgstr ""
+
+#: ../inc/customize.php:211 ../inc/customize.php:289
+msgid "Title"
+msgstr ""
+
+#: ../inc/customize.php:219
+msgid ""
+"The Color changing options of Simplicity will give the WordPress Driven Site "
+"an attractive look. Simplicity is super elegant and Professional Responsive "
+"Theme which will create the business widely expressed"
+msgstr ""
+
+#: ../inc/customize.php:227 ../inc/customize.php:305
+msgid "Description"
+msgstr ""
+
+#: ../inc/customize.php:243 ../inc/customize.php:321
+msgid "Link URL"
+msgstr ""
+
+#: ../inc/customize.php:256
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Second Row Featured Boxes"
+msgstr ""
+
+#: ../inc/customize.php:273
+msgid "Second Row Featured Image"
+msgstr ""
+
+#: ../inc/customize.php:276
+msgid "Upload an image for the Featured Box. 50px X 50px image is recommended"
+msgstr ""
+
+#: ../inc/customize.php:281
+msgid "Simplicity Theme for Business"
+msgstr ""
+
+#: ../inc/customize.php:297
+msgid ""
+"Simplicity is super elegant and Professional Responsive Theme which will "
+"create the business widely expressed. The Color changing options of "
+"Simplicity will give the WordPress Driven Site an attractive look"
+msgstr ""
+
+#: ../inc/customize.php:335
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Post and Responsive"
+msgstr ""
+
+#: ../inc/customize.php:350
+msgid "Do not show any Posts or Page in the Front Page"
+msgstr ""
+
+#: ../inc/customize.php:353
+msgid ""
+"Check the Box if you do not want to show any Posts or Page in the Front Page"
+msgstr ""
+
+#: ../inc/customize.php:367
+msgid "Use Responsive Layout"
+msgstr ""
+
+#: ../inc/customize.php:370
+msgid "Check the Box if you want the Responsive Layout of your Website"
+msgstr ""
+
+#: ../inc/customize.php:380
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Social Links"
+msgstr ""
+
+#: ../inc/customize.php:394
+msgid "Facebook Link"
+msgstr ""
+
+#: ../inc/customize.php:409
+msgid "Twitter Link"
+msgstr ""
+
+#: ../inc/customize.php:424
+msgid "You Tube Channel Link"
+msgstr ""
+
+#: ../inc/customize.php:439
+msgid "Google Plus Link"
+msgstr ""
+
+#: ../inc/customize.php:455
+msgid "Picassa Web Album Link"
+msgstr ""
+
+#: ../inc/customize.php:470
+msgid "Linked In Link"
+msgstr ""
+
+#: ../inc/customize.php:485
+msgid "Feed or Blog Link"
+msgstr ""
+
+#: ../page.php:20
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: ../page.php:28
+msgid "Sorry, no pages matched your criteria"
+msgstr ""
+
+#: ../search.php:12
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:17
+msgid "Search Term:"
+msgstr ""
+
+#: ../search.php:18
+msgid "Number of Results:"
+msgstr ""
+
+#: ../search.php:22
+msgid "Entry Date: "
+msgstr ""
+
+#: ../searchform.php:12
+msgid "Your Search Text Here"
+msgstr ""
+
+#: ../searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: ../sidebar.php:19
+msgid "Meta"
+msgstr ""
+
+#: ../single.php:30
+msgid "&laquo; Previous Image"
+msgstr ""
+
+#: ../single.php:31
+msgid "Next Image &raquo;"
+msgstr ""

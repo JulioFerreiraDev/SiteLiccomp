@@ -1,0 +1,44 @@
+# Translation of Themes - Wallstreet Light in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Wallstreet Light package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-08 14:10:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Wallstreet Light\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme, perfect for creating a corporate/business websites, Wallstreet Light is a child of the Wallstreet theme and is its lighter color variation. Those who prefer a white-background-based theme can use this, while those who prefer a dark background can use directly the parent theme. Wallstreet Light theme is currently localized in more than 10 languages ( English, German, Italian, French, Japanese, Brazilian, Portuguese, Swedish, Chinese, Danish, Dutch)."
+msgstr "Um tema de negócios, perfeito para criar sites corporativos/empresariais, o Wallstreet Light é um tema filho do Wallstreet em uma sua variação de cores clara. Aqueles que preferem um tema baseado em fundo branco podem usar isso, enquanto aqueles que preferem um fundo escuro podem usar o tema pai diretamente. O tema Wallstreet Light está atualmente disponível em mais de 10 idiomas (inglês, alemão, italiano, francês, japonês, brasileiro, português, sueco, chinês, dinamarquês e holandês)."
+
+#. Theme Name of the plugin/theme
+msgid "Wallstreet Light"
+msgstr "Wallstreet Light"
+
+#: blog-fullwidth.php:38
+msgid "Page"
+msgstr "Página"
+
+#. Template Name of the plugin/theme
+msgid "Blog-FullWidth"
+msgstr "Blog em largura total"
+
+#: blog-fullwidth.php:37
+msgid "Read More"
+msgstr "Continue a ler"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/wallstreet-lite-version-details-page/"
+msgstr "https://webriti.com/wallstreet-lite-version-details-page/"

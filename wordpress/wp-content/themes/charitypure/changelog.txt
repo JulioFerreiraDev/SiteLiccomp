@@ -1,0 +1,49 @@
+CharityPure
+
+*********************
+Version 2.3 (08/17/17)
+- Look & feel changes
+
+Version 2.2 (08/04/17)
+- Added social icons option
+
+Version 2.1 (07/14/17)
+- Adjusted font size for featured area element
+
+Version 2.0 (07/07/17)
+- Added featured area element
+- Added visible edit links in the customizer
+
+Version 1.9 (04/27/17)
+- Fixed issue with PHP version 7.1
+
+Version 1.8 (09/26/16)
+- Updated theme as per standards
+
+Version 1.7 (09/15/16)
+- Updated theme as per standards
+
+Version 1.6 (08/25/16)
+- Updated theme as per standards
+
+Version 1.5 (08/16/16)
+- Fixed minor bugs
+
+Version 1.4 (07/13/16)
+- Updated theme as per WordPress guidelines
+
+Version 1.3 (06/13/16)
+- Modified customizer settings
+
+Version 1.2 (06/08/16)
+- Theme options panel removed
+- Licences updated
+- Theme URI and forum link updated 
+
+Version 1.1 (06/06/16)
+- Textdomains corrected
+- Added theme support for title tag and custom logo
+- Added latest version of TGMPA
+
+Version 1.0 (01/07/16)
+- Initial release
